@@ -17,5 +17,9 @@ Sin embargo, además de ocurrir en las regiones árticas y antárticas, el perma
 
 > Los cambios se cuantifican principalmente desde la década de 1980, cuando comenzaron las redes sistemáticas de observación de las condiciones del permafrost, aunque algunas observaciones locales o regionales se remontan más atrás en el siglo XX o antes. Los cambios observados en los sistemas de permafrost se refieren a la temperatura del permafrost, el espesor de la capa activa (ALT) y el deshielo (degradación) del permafrost (Murton, 2021,p.281).
 
+#### Cambios en la vegetación 
 Siguiendo lo expuesto por [Chen et al.](https://www.nature.com/articles/s41558-021-01011-y.pdf?origin=ppub) (2021) en la actualidad se han identificado múltiples evidencias respecto a la descomposición microbiana de la materia orgánica presente en el suelo de ecosistemas dominados por el permafrost con una alta sensibilidad al deshielo y los aumentos en la temperatura. El calentamiento del clima producto de las emisiones antropogénicas de GEI profundiza la capa activa e influye en la descomposición del carbono presente en el permafrost.
 
+#### Herramientas de monitoreo
+
+Para llevar a cabo el monitoreo de las condiciones cambiantes del permafrost en las últimas décadas, es necesario el uso de toda una plataforma tecnológica y de material humano que posibilitan obtener datos confiables y con posibilidad de acceso para generar proyecciones y modelos. En palabras de [Murton](https://www.sciencedirect.com/science/article/pii/B9780128215753000141?via%3Dihub) (2021) existen dos fuentes principales; programas internacionales de monitoreo y estudios locales o regionales. Los programas internacionales han monitoreado la temperatura del permafrost y ALT. De esta manera ambas variables proporcionan evidencia directa del cambio del permafrost y con base a este flujo de trabajo se evidencia el cambio climático, ambiental o inducido por el hombre (p.299).
