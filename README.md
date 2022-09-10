@@ -14,5 +14,8 @@ Sin embargo, además de ocurrir en las regiones árticas y antárticas, el perma
 
 ![Map of modern permafrost zones in the Northern Hemisphere.](https://ars.els-cdn.com/content/image/3-s2.0-B9780128215753000141-f14-01-9780128215753.jpg)
 
+
 > Los cambios se cuantifican principalmente desde la década de 1980, cuando comenzaron las redes sistemáticas de observación de las condiciones del permafrost, aunque algunas observaciones locales o regionales se remontan más atrás en el siglo XX o antes. Los cambios observados en los sistemas de permafrost se refieren a la temperatura del permafrost, el espesor de la capa activa (ALT) y el deshielo (degradación) del permafrost (Murton, 2021,p.281).
+
+Siguiendo lo expuesto por [Chen et al.](https://www.nature.com/articles/s41558-021-01011-y.pdf?origin=ppub) (2021) en la actualidad se han identificado múltiples evidencias respecto a la descomposición microbiana de la materia orgánica presente en el suelo de ecosistemas dominados por el permafrost con una alta sensibilidad al deshielo y los aumentos en la temperatura. El calentamiento del clima producto de las emisiones antropogénicas de GEI profundiza la capa activa e influye en la descomposición del carbono presente en el permafrost.
 
