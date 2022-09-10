@@ -30,5 +30,5 @@ Para llevar a cabo el monitoreo de las condiciones cambiantes del permafrost en 
 
 1. La generación de proyecciones futuras de diferentes factores físicos y climáticos permiten presentar posibles escenarios del comportamiento espacial que tendrá el permafrost en nuestro planeta a futuro; estos escenarios van a depender de los datos que se utilicen para su modelado.
 2. La emisión de gases de efecto invernadero va a determinar en gran parte cómo va a evolucionar la temperatura del planeta y, por lo tanto, este es un factor a tomar en cuenta cuando se desea proyectar el posible derretimiento del permafrost a futuro. 
-3. El deshielo del permafrost, derivado del aumento de temperatura así como de la vulnerabilidad topográfica de algunas áreas, conlleva a alteraciones tanto ambientales como de carácter geomorfológico, que repercuten también en consecuencias económicas y sociales para los más afectados por el deshielo.
+3. El deshielo del permafrost, derivado del aumento de temperatura así como de la vulnerabilidad topográfica de algunas áreas, conlleva a alteraciones tanto ambientales como de carácter geomorfológico, que repercuten también en consecuencias económicas y sociales para los más afectados por el deshielo. 
 
