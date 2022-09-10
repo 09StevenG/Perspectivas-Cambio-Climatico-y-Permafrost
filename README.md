@@ -14,6 +14,8 @@ Sin embargo, además de ocurrir en las regiones árticas y antárticas, el perma
 
 ![Map of modern permafrost zones in the Northern Hemisphere.](https://ars.els-cdn.com/content/image/3-s2.0-B9780128215753000141-f14-01-9780128215753.jpg)
 
+<img src="https://ars.els-cdn.com/content/image/3-s2.0-B9780128215753000141-f14-01-9780128215753.jpg" width="200" height="100">
+
 
 > Los cambios se cuantifican principalmente desde la década de 1980, cuando comenzaron las redes sistemáticas de observación de las condiciones del permafrost, aunque algunas observaciones locales o regionales se remontan más atrás en el siglo XX o antes. Los cambios observados en los sistemas de permafrost se refieren a la temperatura del permafrost, el espesor de la capa activa (ALT) y el deshielo (degradación) del permafrost (Murton, 2021,p.281).
 
