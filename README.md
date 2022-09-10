@@ -34,8 +34,8 @@ Para llevar a cabo el monitoreo de las condiciones cambiantes del permafrost en 
 
 ###### Referencias
 
-- Chen, Y., Romps, D. M., Seeley, J. T., Veraverbeke, S., Riley, W. J., Mekonnen, Z. A., & Randerson, J. T. (2021). Future increases in Arctic lightning and fire risk for permafrost carbon. Nature Climate Change, 11(5), 404-410.[](https://doi.org/10.1038/s41558-021-01011-y)
+- [Chen, Y., Romps, D. M., Seeley, J. T., Veraverbeke, S., Riley, W. J., Mekonnen, Z. A., & Randerson, J. T. (2021). Future increases in Arctic lightning and fire risk for permafrost carbon. Nature Climate Change, 11(5), 404-410.](https://doi.org/10.1038/s41558-021-01011-y)
 
-- Murton, J. B. (2021). Permafrost and climate change. In Climate Change (pp. 281-326). Elsevier. [](https://doi.org/10.1016/B978-0-12-821575-3.00014-1)
+- [Murton, J. B. (2021). Permafrost and climate change. In Climate Change (pp. 281-326). Elsevier. ](https://doi.org/10.1016/B978-0-12-821575-3.00014-1)
 
-- Goudie S, Andrew. (2004). Encyclopedia of Geomorphology. Vol 1.Routledge, London. pp 824-826.[](https://courses.ess.washington.edu/ess-306/links/Goudie_Encyclopedia_of_Geomorphology.pdf)
+- [Goudie S, Andrew. (2004). Encyclopedia of Geomorphology. Vol 1.Routledge, London. pp 824-826.](https://courses.ess.washington.edu/ess-306/links/Goudie_Encyclopedia_of_Geomorphology.pdf)
