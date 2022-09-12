@@ -19,7 +19,7 @@ Sin embargo, además de ocurrir en las regiones árticas y antárticas, el perma
 #### Cambios en la vegetación 
 Siguiendo lo expuesto por [Chen et al.](https://www.nature.com/articles/s41558-021-01011-y.pdf?origin=ppub) (2021) en la actualidad se han identificado múltiples evidencias respecto a la descomposición microbiana de la materia orgánica presente en el suelo de ecosistemas dominados por el permafrost con una alta sensibilidad al deshielo y los aumentos en la temperatura. El calentamiento del clima producto de las emisiones antropogénicas de GEI profundiza la capa activa e influye en la descomposición del carbono presente en el permafrost.
 
-<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41558-021-01011-y/MediaObjects/41558_2021_1011_Fig4_HTML.png?as=webp" width="500" height="500">
+[<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41558-021-01011-y/MediaObjects/41558_2021_1011_Fig4_HTML.png?as=webp" width="500" height="500">](https://www.nature.com/articles/s41558-021-01011-y)
 
 ### Herramientas de monitoreo
 
